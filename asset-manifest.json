@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://gorsobes.github.io/csb-dlmer/static/css/main.3b0bcdf0.chunk.css",
+    "main.js": "https://gorsobes.github.io/csb-dlmer/static/js/main.ef95f503.chunk.js",
+    "main.js.map": "https://gorsobes.github.io/csb-dlmer/static/js/main.ef95f503.chunk.js.map",
+    "runtime-main.js": "https://gorsobes.github.io/csb-dlmer/static/js/runtime-main.601c64d6.js",
+    "runtime-main.js.map": "https://gorsobes.github.io/csb-dlmer/static/js/runtime-main.601c64d6.js.map",
+    "static/js/2.86369b70.chunk.js": "https://gorsobes.github.io/csb-dlmer/static/js/2.86369b70.chunk.js",
+    "static/js/2.86369b70.chunk.js.map": "https://gorsobes.github.io/csb-dlmer/static/js/2.86369b70.chunk.js.map",
+    "index.html": "https://gorsobes.github.io/csb-dlmer/index.html",
+    "static/css/main.3b0bcdf0.chunk.css.map": "https://gorsobes.github.io/csb-dlmer/static/css/main.3b0bcdf0.chunk.css.map",
+    "static/js/2.86369b70.chunk.js.LICENSE.txt": "https://gorsobes.github.io/csb-dlmer/static/js/2.86369b70.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.601c64d6.js",
+    "static/js/2.86369b70.chunk.js",
+    "static/css/main.3b0bcdf0.chunk.css",
+    "static/js/main.ef95f503.chunk.js"
+  ]
+}
